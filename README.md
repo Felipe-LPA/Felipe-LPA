@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey, Meu nome é Felipe Luiz e estou em desenvolvimento pessoal, Let's do it!
 
-<!--
-**Felipe-LPA/Felipe-LPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<div>
+  <a href="https://github.com/Felipe-LPA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-LPA&show_icons=true&theme=shades-of-purple&title_color=b362ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-LPA&layout=compactshow_icons=true&theme=shades-of-purple&title_color=b362ff"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```js
+const name = 'Felipe Luiz';
+
+let status = 
+{ 
+  learning : [JavaScript,React,Node, Html, Css],
+  Goal: [High Expertise in Web Dev, Community Contribution]
+}
+```
+
+
+<div>
+  <a href="https://www.linkedin.com/in/felipe-luiz-pontes-de-andrade-a41988176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+
