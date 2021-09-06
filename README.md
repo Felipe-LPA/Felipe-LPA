@@ -14,7 +14,7 @@ const name = 'Felipe Luiz';
 
 let status = 
 { 
-  learning : [JavaScript,React,Node, Html, Css],
+  learning : [JavaScript, TypeScript, React, Node, [Html, Css], [Angular, Java]],
   Goal: [High Expertise in Web Dev, Community Contribution]
 }
 ```
